@@ -1,0 +1,16 @@
+{
+  "name": "observatoriobackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^11.9.0",
+    "nodemon": "^2.0.22",
+    "serialport": "^11.0.0"
+  }
+}
